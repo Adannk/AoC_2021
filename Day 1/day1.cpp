@@ -16,6 +16,7 @@ int main()
     cout << endl; 
     part2_solution(sonarM);
     
+    return 0;
 }
 
 void part1_solution(vector <int> sonarReadings)
